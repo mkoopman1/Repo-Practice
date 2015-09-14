@@ -75,6 +75,9 @@
         </div>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <h1>
+                    Hey Ya'll
+                </h1>
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
